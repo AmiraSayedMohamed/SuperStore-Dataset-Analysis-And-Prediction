@@ -27,10 +27,8 @@ This project involves:
 ## Installation 🛠️
 
 To run this project, you'll need to install the following dependencies:
-
-```bash
 pip install pandas matplotlib seaborn scikit-learn
----------------------------------------------------
+
 
  ## Data Source 📊
   The dataset used for this analysis is sourced from the Superstore dataset, which contains information about sales transactions, customer demographics, and product details.
