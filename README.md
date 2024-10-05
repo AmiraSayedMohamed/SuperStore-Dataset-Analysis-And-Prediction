@@ -36,9 +36,9 @@ pip install pandas matplotlib seaborn scikit-learn
   ## Data Analysis 🔍
   ### Data Cleaning: The dataset was cleaned to handle missing values and incorrect data types.
   Exploratory Data Analysis (EDA): Key metrics were analyzed, including total sales, profit, and quantity sold by category, region, and shipping mode.
-  ## Key Findings
+  ##  Data Visualization 📈
   # Top 5 selling products
-  ![Alt text]([https://raw.githubusercontent.com/Salah1174/Final-Project-SIC/main/Pictures/Smart%20Farm.png](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/image.png))
+  ![Alt text]((https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/image.png))
   # Average Sales by Region for canon product
   ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/average%20sales%20by%20region%20for%20canon%20class%20for%20KI%20Product.jpg)
   # Average Sales by Region for KI product
@@ -66,14 +66,6 @@ pip install pandas matplotlib seaborn scikit-learn
   # Distrubution of shipping duratoin
   ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/Distrubution%20of%20shipping%20duratoin.jpg)
   
-  ## Data Visualization 📈
-  Various visualizations were created to illustrate the findings from the data analysis:
-  
-  Total Sales Over Time: A line graph showing the sales trend over the selected time period.
-  
-  Sales by Category: A bar chart representing total sales by product category.
-  
-  Sales Distribution: A histogram displaying the distribution of sales amounts.
   
   # Model Building 🏗️
   Multiple predictive models were built to forecast future sales, including:
