@@ -38,6 +38,7 @@ pip install pandas matplotlib seaborn scikit-learn
   Exploratory Data Analysis (EDA): Key metrics were analyzed, including total sales, profit, and quantity sold by category, region, and shipping mode.
   ## Key Findings
   The overall sales trend shows significant seasonal fluctuations.
+  ![Alt text](https://raw.githubusercontent.com/Salah1174/Final-Project-SIC/main/Pictures/Smart%20Farm.png)
   Certain categories, such as Office Supplies, contributed the most to total sales.
   The West region has the highest sales volume compared to other regions.
   ## Data Visualization 📈
