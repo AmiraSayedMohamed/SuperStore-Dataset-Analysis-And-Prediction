@@ -38,7 +38,7 @@ pip install pandas matplotlib seaborn scikit-learn
   Exploratory Data Analysis (EDA): Key metrics were analyzed, including total sales, profit, and quantity sold by category, region, and shipping mode.
   ##  Data Visualization 📈
   # Top 5 selling products
-  ![Alt text]((https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/image.png))
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/image.png))
   # Average Sales by Region for canon product
   ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/average%20sales%20by%20region%20for%20canon%20class%20for%20KI%20Product.jpg)
   # Average Sales by Region for KI product
@@ -65,7 +65,21 @@ pip install pandas matplotlib seaborn scikit-learn
   ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/sales%20over%20monthes%20and%20years.jpg)
   # Distrubution of shipping duratoin
   ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/Distrubution%20of%20shipping%20duratoin.jpg)
-  
+  # What is the Reason of the Delaying of Shipping Duration
+  ## Analyzing by Shipping Mode Duration
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/Average%20Shipping%20Duration%20by%20shipping%20mode.jpg)
+  # Average shipping duration by state (Standard Class)
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/Average%20shipping%20duration%20by%20state.jpg)
+  # average shipping duratoin over time
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/average%20shipping%20duratoin%20over%20time.jpg)
+  # average shipping duration by product Category
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/average%20shipping%20duration%20by%20product.jpg)
+  # Average shipping duration by state
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/Average%20shipping%20duration%20by%20state.jpg)
+  # average shipping duration by month
+  ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/average%20shipping%20duration%20by%20month.jpg)
+  # average shipping duration vs. Total Sales by state
+   ![Alt text](https://github.com/AmiraSayedMohamed/SuperStore-Dataset-Analysis-And-Prediction/blob/master/pictures/average%20shipping%20duration%20vs.%20Total%20Sales%20by%20state.jpg)
   
   # Model Building 🏗️
   Multiple predictive models were built to forecast future sales, including:
